@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.910ecefb.css",
+    "main.js": "/static/js/main.ab22dc75.js",
+    "static/js/787.6f726199.chunk.js": "/static/js/787.6f726199.chunk.js",
+    "static/media/Valley.jpg": "/static/media/Valley.76f20af51ec817b8a57f.jpg",
+    "index.html": "/index.html",
+    "main.910ecefb.css.map": "/static/css/main.910ecefb.css.map",
+    "main.ab22dc75.js.map": "/static/js/main.ab22dc75.js.map",
+    "787.6f726199.chunk.js.map": "/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.910ecefb.css",
+    "static/js/main.ab22dc75.js"
+  ]
+}
